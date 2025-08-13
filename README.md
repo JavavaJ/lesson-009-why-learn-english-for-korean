@@ -35,6 +35,8 @@ Quyidagi so‘z va iboralarni ko‘rib chiqing. Ma’nosini birga toping va oddi
 ### 3) O‘qish: Hikoya
 Matnni diqqat bilan o‘qing. So‘ngra vazifalarni bajaring.
 
+<img src="./images/intro.png" alt="Intro" align="right" style="width: 50%; height: auto;">
+
 Jin Li Koreyadagi yaxshi universitetning to‘rtinchi kurs talabasi. U to‘rt oydan keyin bitiradi va Seulga yaqin kichik shaharchadagi taksi kompaniyasida ish boshlaydi. U deydi: “Men qariyb 10 yil ingliz tilini o‘rgandim. To‘g‘risi, bu vaqtning bekor ketganidir.”
 
 Uning fikricha, ishida ingliz tili kerak bo‘lmaydi. Kompaniyada hamma koreyscha gapiradi: egasi ham, xodimlar ham, haydovchilar ham. Ularning shaharchasida chet ellik mehmonlar juda kam.
@@ -43,6 +45,7 @@ Bo‘sh vaqtida ham unga ingliz tili kerak emas deb o‘ylaydi. U xorij yangilik
 
 Jin Li o‘ylaydi: “Maktabda va uyda ingliz tilini o‘rganib o‘tkazgan soat, kun, hafta, hatto yillarimni eslayman. O‘rniga yana nimalarni o‘rganishim mumkin edi! Masalan, ko‘proq tarix o‘rganib, mamlakatimni yaxshiroq tushungan bo‘lardim. Yoki ko‘proq adabiyot o‘qib, buyuk yozuvchilarimizni chuqurroq anglagan bo‘lardim. Endi o‘ylayman: men nega shuncha yil ingliz tilini o‘rgandim? Faqat imtihon topshirish uchunmi? Bu juda katta vaqt isrofiday tuyuladi.”
 
+<br clear="right"/>
 ---
 
 ### 4) Tushunishni tekshirish
@@ -63,12 +66,15 @@ Jin Li o‘ylaydi: “Maktabda va uyda ingliz tilini o‘rganib o‘tkazgan soat
 ---
 
 ### 5) “Siz nima deb o‘ylaysiz?” (munozara)
-Quyidagi fikrlar bilan qanchalik rozisiz? Belgilang va juftingiz bilan tushuntiring.
-- [ ] Ingliz tili eng muhim xalqaro til. Hamma yaxshi darajada o‘rganishi kerak, hatto bir necha yil vaqt ketsa ham.
-- [ ] Agar ish yoki sayohat uchun kerak bo‘lsa, o‘rganish kerak. Lekin hamma uchun shart emas.
-- [ ] Hozir kerak bo‘lmasligi mumkin, lekin kelajakda kerak bo‘lishi mumkin. Yaxshisi, oldindan tayyor bo‘lish.
-- [ ] Chet tilini o‘rganish muhim, lekin u albatta ingliz tili bo‘lishi shart emas. Qo‘shni mamlakatlar tillari ham muhim.
-- [ ] Ingliz tilini o‘rganish kerak, lekin yillar davomida emas. Haqiqatan kerak bo‘lganlar davom ettirishsin.
+Quyidagi 5 ishtirokchi fikrlarini rasm bilan ko‘ring. Belgilang va juftingiz bilan tushuntiring. (Rasmlar `images/` papkasida joylashadi: `person1.jpg` ... `person5.jpg`)
+
+| Ishtirokchi | Fikri |
+| --- | --- |
+| <img src="./images/1.jpg" alt="Ishtirokchi 1" width="33%"> | [ ] Ingliz tili eng muhim xalqaro til. Hamma yaxshi darajada o‘rganishi kerak, hatto bir necha yil vaqt ketsa ham. |
+| <img src="./images/2.jpg" alt="Ishtirokchi 2" width="33%"> | [ ] Agar ish yoki sayohat uchun kerak bo‘lsa, o‘rganish kerak. Lekin hamma uchun shart emas. |
+| <img src="./images/3.jpg" alt="Ishtirokchi 3" width="33%"> | [ ] Hozir kerak bo‘lmasligi mumkin, lekin kelajakda kerak bo‘lishi mumkin. Yaxshisi, oldindan tayyor bo‘lish. |
+| <img src="./images/4.jpg" alt="Ishtirokchi 4" width="33%"> | [ ] Chet tilini o‘rganish muhim, lekin u albatta ingliz tili bo‘lishi shart emas. Qo‘shni mamlakatlar tillari ham muhim. |
+| <img src="./images/5.jpg" alt="Ishtirokchi 5" width="33%"> | [ ] Ingliz tilini o‘rganish kerak, lekin yillar davomida emas. Haqiqatan kerak bo‘lganlar davom ettirishsin. |
 
 O‘z fikringizni kamida 2–3 gap bilan tushuntiring.
 
