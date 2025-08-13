@@ -66,15 +66,57 @@ Jin Li o‘ylaydi: “Maktabda va uyda ingliz tilini o‘rganib o‘tkazgan soat
 ---
 
 ### 5) “Siz nima deb o‘ylaysiz?” (munozara)
-Quyidagi 5 ishtirokchi fikrlarini rasm bilan ko‘ring. Belgilang va juftingiz bilan tushuntiring. (Rasmlar `images/` papkasida joylashadi: `person1.jpg` ... `person5.jpg`)
+Quyidagi 5 ishtirokchi fikrlarini rasm bilan ko‘ring. Belgilang va juftingiz bilan tushuntiring. (Rasmlar `images/` papkasida joylashadi: `1.jpg` ... `5.jpg`)
 
-| Ishtirokchi | Fikri |
-| --- | --- |
-| <img src="./images/1.jpg" alt="Ishtirokchi 1" width="33%"> | [ ] Ingliz tili eng muhim xalqaro til. Hamma yaxshi darajada o‘rganishi kerak, hatto bir necha yil vaqt ketsa ham. |
-| <img src="./images/2.jpg" alt="Ishtirokchi 2" width="33%"> | [ ] Agar ish yoki sayohat uchun kerak bo‘lsa, o‘rganish kerak. Lekin hamma uchun shart emas. |
-| <img src="./images/3.jpg" alt="Ishtirokchi 3" width="33%"> | [ ] Hozir kerak bo‘lmasligi mumkin, lekin kelajakda kerak bo‘lishi mumkin. Yaxshisi, oldindan tayyor bo‘lish. |
-| <img src="./images/4.jpg" alt="Ishtirokchi 4" width="33%"> | [ ] Chet tilini o‘rganish muhim, lekin u albatta ingliz tili bo‘lishi shart emas. Qo‘shni mamlakatlar tillari ham muhim. |
-| <img src="./images/5.jpg" alt="Ishtirokchi 5" width="33%"> | [ ] Ingliz tilini o‘rganish kerak, lekin yillar davomida emas. Haqiqatan kerak bo‘lganlar davom ettirishsin. |
+<!-- Ishtirokchi 1 -->
+<table>
+  <tr>
+    <td width="30%"><img src="./images/1.jpg" alt="Ishtirokchi 1" width="100%"></td>
+    <td width="1%"></td>
+    <td>[ ] Ingliz tili eng muhim xalqaro til. Hamma yaxshi darajada o‘rganishi kerak, hatto bir necha yil vaqt ketsa ham.</td>
+  </tr>
+</table>
+<hr/>
+
+<!-- Ishtirokchi 2 -->
+<table>
+  <tr>
+    <td>[ ] Agar ish yoki sayohat uchun kerak bo‘lsa, o‘rganish kerak. Lekin hamma uchun shart emas.</td>
+    <td width="1%"></td>
+    <td width="30%"><img src="./images/2.jpg" alt="Ishtirokchi 2" width="100%"></td>
+  </tr>
+</table>
+<hr/>
+
+<!-- Ishtirokchi 3 -->
+<table>
+  <tr>
+    <td width="30%"><img src="./images/3.jpg" alt="Ishtirokchi 3" width="100%"></td>
+    <td width="1%"></td>
+    <td>[ ] Hozir kerak bo‘lmasligi mumkin, lekin kelajakda kerak bo‘lishi mumkin. Yaxshisi, oldindan tayyor bo‘lish.</td>
+  </tr>
+</table>
+<hr/>
+
+<!-- Ishtirokchi 4 -->
+<table>
+  <tr>
+    <td>[ ] Chet tilini o‘rganish muhim, lekin u albatta ingliz tili bo‘lishi shart emas. Qo‘shni mamlakatlar tillari ham muhim.</td>
+    <td width="1%"></td>
+    <td width="30%"><img src="./images/4.jpg" alt="Ishtirokchi 4" width="100%"></td>
+  </tr>
+</table>
+<hr/>
+
+<!-- Ishtirokchi 5 -->
+<table>
+  <tr>
+    <td width="30%"><img src="./images/5.jpg" alt="Ishtirokchi 5" width="100%"></td>
+    <td width="1%"></td>
+    <td>[ ] Ingliz tilini o‘rganish kerak, lekin yillar davomida emas. Haqiqatan kerak bo‘lganlar davom ettirishsin.</td>
+  </tr>
+</table>
+
 
 O‘z fikringizni kamida 2–3 gap bilan tushuntiring.
 
